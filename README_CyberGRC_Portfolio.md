@@ -1,5 +1,5 @@
 
-# Cybersecurity GRC Project Portfolio
+# Select Cybersecurity GRC Project Portfolio
 
 Welcome to my professional portfolio of selected Cybersecurity Governance, Risk, and Compliance (GRC) projects. These examples represent a range of engagements I’ve completed across small businesses, SaaS environments, telecom infrastructure, and nonprofit sectors. All projects have been anonymized to maintain confidentiality while showcasing practical application of GRC methodologies, standards, and frameworks.
 
