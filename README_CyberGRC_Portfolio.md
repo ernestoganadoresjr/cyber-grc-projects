@@ -46,10 +46,10 @@ Welcome to my professional portfolio of selected Cybersecurity Governance, Risk,
 This repository includes:
 - Project summaries (in `projects/`)
 - Policy Templates:
-  - [Access Control Policy Template (PDF)](Access_Control_Policy_Template_fixed.pdf)
-  - [Incident Response Policy Template (PDF)](Incident_Response_Policy_Template_fixed.pdf)
+  - [Access Control Policy Template (PDF)](Access_Control_Policy_Template.docx)
+  - [Incident Response Policy Template (PDF)](Incident_Response_Policy_Template.docx)
 -  Vendor Risk Scorecard:
-  - [Vendor Risk Scorecard Template (PDF)](Vendor_Risk_Scorecard_Template_fixed.pdf)
+  - [Vendor Risk Scorecard Template (PDF)](Vendor_Risk_Scorecard_Template.docx)
 
 > All artifacts are redacted and recreated to reflect real-world experience without exposing sensitive information.
 
