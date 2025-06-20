@@ -1,64 +1,55 @@
+> © 2025 Ernesto Ganadores Jr. | All rights reserved.  
+> This repository is licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/).
 
-# Selected Cybersecurity GRC Project Portfolio
+# Cybersecurity GRC Project Portfolio
 
-Welcome to my professional portfolio of selected Cybersecurity Governance, Risk, and Compliance (GRC) projects. These examples represent a range of engagements I’ve completed across small businesses, SaaS environments, telecom infrastructure, and nonprofit sectors. All projects have been anonymized to maintain confidentiality while showcasing practical application of GRC methodologies, standards, and frameworks.
-
----
-
-## ISO 27001 Gap Assessment – Financial Services
-
-- Conducted a comprehensive ISO 27001 readiness audit across 8 control domains.
-- Identified 18 control gaps and provided a roadmap aligned with Annex A and NIST CSF.
-- Drafted baseline policies covering access control, asset management, and incident response.
-- **Outcome**: Client achieved Stage 1 audit clearance within 60 days.
+This repository highlights my cybersecurity GRC (Governance, Risk, and Compliance) project experience, including ISO 27001-aligned documentation, risk assessments, policies, and client-ready templates. The content is recreated from real consulting engagements and anonymized for public sharing.
 
 ---
 
-## Third-Party Risk Framework – SaaS Startup
+## 🔹 What’s Inside
 
-- Developed a third-party risk assessment framework grounded in CIS Controls.
-- Assessed 7 cloud service vendors for compliance, data handling, and access controls.
-- Created vendor scorecards and risk acceptance criteria for decision-makers.
-- **Outcome**: Helped reject 2 high-risk vendors, strengthening supply chain resilience.
+📁 **RiskGuard360 ISMS Toolkit**  
+A clean, modern ISO/IEC 27001:2022 documentation set built using the RG3S (RiskGuard360 Style). Includes Scope, Policy, SoA, Risk Methodology, Metrics, and more.
 
----
+📁 **SME Client Engagements (Anonymized)**  
+Gap assessments, risk registers, audit reports, and training materials used in small business cybersecurity improvement projects.
 
-## Security Governance – Telecom Equipment Integration
+📁 **Policy Templates**  
+Editable DOCX templates for key policies like:
+- Access Control  
+- Incident Response  
+- Acceptable Use  
+- Third-Party Security
 
-- Supported secure configuration and change control across 60+ 5G/LTE rollout sites.
-- Reviewed SoW and Change Requests for security exposure and compliance alignment.
-- Implemented IAM baselines and hardening checklists for integration teams.
-- **Outcome**: Reduced misconfiguration risks in critical wireless deployments.
-
----
-
-## NIST CSF Maturity Assessment – Nonprofit Organization
-
-- Conducted a cybersecurity maturity assessment using the NIST Cybersecurity Framework.
-- Evaluated capabilities across Identify, Protect, Detect, Respond, and Recover.
-- Delivered staff training and a tailored improvement plan.
-- **Outcome**: Improved security awareness score by 30% post-training.
+📁 **Security Risk Register & TRA Samples**  
+Excel-based tools used in client assessments, aligned with ISO 27001 and NIST CSF.
 
 ---
 
-## Repository Structure
+## ✅ Key Frameworks Applied
 
-This repository includes:
-- Project summaries (in `projects/`)
-- Policy Templates:
-  - [Access Control Policy Template (Doc)](Access_Control_Policy_Template.docx)
-  - [Incident Response Policy Template (Doc)](Incident_Response_Policy_Template.docx)
--  Vendor Risk Scorecard:
-  - [Vendor Risk Scorecard Template (Doc)](Vendor_Risk_Scorecard_Template.docx)
-
-> All artifacts are redacted and recreated to reflect real-world experience without exposing sensitive information.
+- ISO/IEC 27001:2022  
+- NIST Cybersecurity Framework (CSF)  
+- Essential Eight (ACSC)  
+- PSPF / ISM (aligned references for federal assessments)
 
 ---
 
-## 👤 About Me
+## 🔐 Use Cases
 
-I’m Ernesto Ganadores Jr., a Cybersecurity GRC Specialist with over 3 years of focused GRC experience and 17+ years in security governance within critical telecom infrastructure. I specialize in ISO 27001 readiness, vendor risk, and operational security assurance.
-
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/ernesto-g-jr)
+This repo is useful for:
+- Cyber GRC job seekers needing portfolio material  
+- Consultants working with SMEs and regulated industries  
+- Internal teams building baseline ISMS documentation  
+- Students and career changers learning how real-world compliance is applied
 
 ---
+
+## ⚠️ Disclaimer
+
+All materials in this repository are recreated, anonymized, and offered as educational references. They do not contain client names, personal data, or confidential information. Always tailor templates for your own use.
+
+---
+
+⭐ Star this repo if you found it useful or inspiring!
